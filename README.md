@@ -1,30 +1,39 @@
-Agência Planner 🌟
-Bem-vindo ao repositório oficial da Agência Planner! Somos uma agência de publicidade digital apaixonada por criar soluções inovadoras que transformam ideias em resultados concretos. 🚀
+# 🚀 Agência Planner | Digital Marketing Solutions
 
-- Quem Somos
-Na Agência Planner, oferecemos serviços digitais completos para atender às necessidades dos nossos clientes, incluindo:
+## 👋 Sobre Nós
 
-Desenvolvimento de Sites e E-commerces 🛠️
-E-mail Marketing Personalizado 📧
-Gestão de Campanhas e Estratégias Digitais 📈
-Soluções Criativas e Inovadoras 🎨
+Transformamos ideias digitais em resultados extraordinários. Somos uma agência especializada em soluções de marketing digital, desenvolvimento web e estratégias inovadoras.
 
-- O Que Você Vai Encontrar Aqui
-Este repositório reúne projetos e ferramentas desenvolvidas pela nossa equipe, como:
+## 🛠 Tecnologias & Ferramentas
 
-Templates e automações para marketing.
-Scripts e ferramentas para otimização de sites.
-Documentação e exemplos de integrações digitais.
-Nosso objetivo é compartilhar conhecimento, promover a inovação e fortalecer a comunidade de desenvolvedores.
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- Como Contribuir
-Quer colaborar com a gente? Aqui está como você pode começar:
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Faça um fork deste repositório.
-Crie uma branch para sua funcionalidade: git checkout -b minha-nova-funcionalidade.
-Envie um pull request explicando sua ideia ou melhoria!
-Contato
-📩 E-mail: contato@agenciaplanner.com
-🌐 Site: agenciaplanner.com.br
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-Obrigado por fazer parte da nossa jornada! 💡
+## 📞 Contato
+
+- **Email**: contato@agenciaplanner.com.br
+- **Website**: [agenciaplanner.com.br](https://agenciaplanner.com.br)
+- **LinkedIn**: [Agência Planner](https://linkedin.com/company/agenciaplanner)
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=agenciaplanner&show_icons=true&theme=radical)
+
+---
+
+**Transformando Ideias Digitais em Resultados Reais** 💻🚀
