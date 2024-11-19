@@ -4,8 +4,6 @@
 
 Transformamos ideias digitais em resultados extraordinários. Somos uma agência especializada em soluções de marketing digital, desenvolvimento web e estratégias inovadoras.
 
-## 🛠 Tecnologias & Ferramentas
-
 ## 🛠 Tecnologias & Ferramentas 
 <table><tr><td valign="top" width="33%">
 
