@@ -69,9 +69,6 @@ Transformamos ideias digitais em resultados extraordinários. Somos uma agência
 - **Website**: [agenciaplanner.com.br](https://agenciaplanner.com.br)
 - **LinkedIn**: [Agência Planner](https://linkedin.com/company/agenciaplanner)
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=agenciaplanner&show_icons=true&theme=radical)
 
 ---
 
