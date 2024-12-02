@@ -62,7 +62,7 @@
 
 ###
 
-<h2 align="left">🛠 DevOps</h2>
+<h2 align="left">🛠 Devops</h2>
 
 ###
 
@@ -112,7 +112,7 @@
 
 ###
 
-<h2 align="left">📞 Contato</h2>
+<h2 align="left">Nossas Redes</h2>
 
 ###
 
@@ -124,7 +124,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/agplanner/agplanner/output/snake.svg" alt="Snake animation" />
+<h2 align="left"></h2>
 
 ###
 
